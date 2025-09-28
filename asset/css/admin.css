@@ -1,0 +1,18 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: 0;
+}
+table, th, td{
+	border: 1px solid gray;
+}
+table{
+	border-collapse: collapse;
+	margin-top: 10px;
+}
+td, th{
+	margin: 4 px;
+}
+nav{
+	background: red;
+}
